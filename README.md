@@ -1,14 +1,8 @@
-# Albert Sanchez
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,apple,arduino,atom,aws,bash,bitbucket,bootstrap,bun,cs,css,cypress,bots,docker,dotnet,dynamodb,electron,elysia,express,firebase,gcp,git,github,githubactions,gitlab,gulp,heroku,html,java,js,jenkins,jest,jquery,latex,linux,md,materialui,matlab,mongodb,nestjs,nextjs,nginx,nodejs,npm,php,pnpm,postgres,postman,powershell,processing,py,raspberrypi,react,redux,regex,sqlite,supabase,selenium,sequelize,swift,tailwind,threejs,ts,vercel,visualstudio,vite,vscode,windows,yarn" />
   </a>
 </p>
-
-## Contact
-
-You can reach me at `albert.san.iza@gmail.com` or [LinkedIn](https://www.linkedin.com/in/albertsaniza)
 
 <!--
 - 🔭 I’m currently working on ...
