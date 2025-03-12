@@ -66,7 +66,9 @@ Full Scholarship
 
 # Portfolio
 
-| Project Name                                               | Image                                                                                           | Links                                             |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [Peer Chat](https://github.com/AlbertSanIza/peer-chat)     | ![Peer Chat](https://github.com/user-attachments/assets/12f37da1-0ee4-439e-bf36-f63a0c64a70b)   | [Try](https://albertsaniza.github.io/peer-chat)   |
-| [Minesweeper](https://github.com/AlbertSanIza/minesweeper) | ![Minesweeper](https://github.com/user-attachments/assets/f3a7b344-2399-4a67-a950-59a1cc29e3e7) | [Try](https://albertsaniza.github.io/minesweeper) |
+| Project Name                                                                  | Image                                                                                     | Links                                                  |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| [Peer Chat (2025)](https://github.com/AlbertSanIza/peer-chat)                 | ![image](https://github.com/user-attachments/assets/12f37da1-0ee4-439e-bf36-f63a0c64a70b) | [Try](https://albertsaniza.github.io/peer-chat)        |
+| [Minesweeper (2025)](https://github.com/AlbertSanIza/minesweeper)             | ![image](https://github.com/user-attachments/assets/f3a7b344-2399-4a67-a950-59a1cc29e3e7) | [Try](https://albertsaniza.github.io/minesweeper)      |
+| [The Hawking Cosmos (2018)](https://github.com/AlbertSanIza/TheHawkingCosmos) |                                                                                           | [YouTube](https://www.youtube.com/watch?v=7TKopNBXiHk) |
+| [CodedWithLove (2017)](https://github.com/AlbertSanIza/minesweeper)           | ![image](https://github.com/user-attachments/assets/c97e280b-7d14-40fd-87ed-3481aeab7cf3) | [YouTube](https://www.youtube.com/watch?v=9rQCCm1T1ZM) |
