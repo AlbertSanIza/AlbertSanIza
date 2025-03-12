@@ -2,13 +2,13 @@
 
 I am a self taught software engineer with a robotics background looking for new and exciting opportunities where my knowledge and experience could be of great value. I am sure that my high sense of responsibility and never ending curiosity will be an excellent addition to your software development team.
 
-## Education
+# Education
 
 Bachelor’s of Science, Mechatronics Engineering  
 The Center for Technical and Higher Education (CETYS University) Tijuana Mexico, Summer 2016
 Full Scholarship
 
-## Skills
+# Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ Full Scholarship
   </a>
 </p>
 
-## Relevant Work Experience
+# Relevant Work Experience
 
 -   **Full Stack Developer** at Treeline Interactive (July 2021 - May 2023, San Diego CA)
 
@@ -46,7 +46,7 @@ Full Scholarship
 
     I developed and provided support by creating and updating 2D & 3D technical CAD drawings using Solid Edge, SolidWorks and AutoCad.
 
-## Personal Achievements
+# Personal Achievements
 
 -   🥈 2nd Place - BioMedTech Baja Hackathon (October 2022, iTJ & Dexcom)
 -   🏅 Winner - WWDC18 Scholarship (April 2018, Apple Inc.)
@@ -59,12 +59,12 @@ Full Scholarship
 -   🥉 3rd Place - 1st National Competition of Educational Satellites (October 2015, UABC)
 -   🏅 Winner - Summer Intern Summit Tijuana (August 2015, Hubbell Lighting)
 
-## Language Skills
+# Language Skills
 
 -   English: Professional
 -   Spanish: Fluent
 
-## Portfolio
+# Portfolio
 
 | Project Name                                               | Image                                                                                           | Links                                             |
 | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------- |
