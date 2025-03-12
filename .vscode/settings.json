@@ -4,5 +4,6 @@
     "editor.quickSuggestions": {
         "strings": "on"
     },
+    "git.autofetch": true,
     "workbench.iconTheme": "material-icon-theme"
 }
