@@ -62,7 +62,7 @@ Full Scholarship
 
 Professional level in English and fluent in Spanish.
 
-🐸 Portfolio
+## Portfolio
 
 -   [Peer Chat](https://github.com/AlbertSanIza/peer-chat)
 -   [Minesweeper](https://github.com/AlbertSanIza/minesweeper)
