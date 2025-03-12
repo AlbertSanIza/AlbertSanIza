@@ -61,7 +61,8 @@ Full Scholarship
 
 ## Language Skills
 
-Professional level in English and fluent in Spanish.
+-   English: Professional
+-   Spanish: Fluent
 
 ## Portfolio
 
