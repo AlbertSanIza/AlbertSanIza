@@ -4,6 +4,15 @@
   </a>
 </p>
 
+## 🐸 Small Projects
+
+-   [Peer Chat](https://github.com/AlbertSanIza/peer-chat)
+-   [Minesweeper](https://github.com/AlbertSanIza/minesweeper)
+
+## 📫 How to reach me
+
+albert.san.iza@gmail.com
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
