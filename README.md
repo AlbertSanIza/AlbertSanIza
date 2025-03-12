@@ -19,31 +19,45 @@ Full Scholarship
 ## Relevant Work Experience
 
 -   **Full Stack Developer** at Treeline Interactive
+
     July 2021 - May 2023, San Diego CA
+
     I worked as a full stack engineer giving support in multiple areas of a big and fun project related to public health, very relevant to the COVID days. Part of my responsibilities were to develop new features and fix bugs, all in sync with the design, mobile and management team. I also had the opportunity to mentor new devs and introduce them into our codebase and best practices. All this work was a 50% frontend and a 50% backend approach, so we were very flexible on what type of activities we did on each sprint.
 
 -   **Junior Software Developer** at VersaCall Technologies Inc
+
     July 2018 - July 2021, San Diego CA
+
     By creating proof of concept projects I was involved in the R&D process to find and test the newest technologies that could be used in the next generation of the company's product. This may include developing the environment setup, frontend and backend implementations, templates and mobile implementation as well. I also designed our testing and deploying tools. At the end we settled into React for the Front End and .Net Core on the backend, all running as micro services on top of Docker.
 
 -   **Software Developer** at Southwest Manufacturing Services
-    August 2017 - July 2018, Tijuana Mexico  
+
+    August 2017 - July 2018, Tijuana Mexico
+
     By proposing, creating and implementing some web and mobile applications we had the opportunity to positively impact day to day processes of our manufacturing plant. I was in charge of all Human Resources needs, for example the personnel managing system where people could access and request sick days and vacations so managers could approve them. I also developed reports and charts that allowed the managers to position their employees in the right working stations depending on the site workload.
 
--   **Sr. Developer Analyst** at Hubbell Lighting  
-    July 2016 - August 2017, Tijuana Mexico  
+-   **Sr. Developer Analyst** at Hubbell Lighting
+
+    July 2016 - August 2017, Tijuana Mexico
+
     After a few months of good results a software development department was created to meet the needs of the company. More projects arrived and our most successful ones were exported to all our Mexico and United States facilities. For example I created a second request software where the managers could track how fast were employees responding their emails and scaling them up to their supervisors if certain time passed. Another project was an app that managers could use to take pictures of problems in the facility then send a fix request to that area's supervisors and also expect a proof of fix response from the person responsible.
 
--   **Information Systems Analyst** at Hubbell Lighting  
+-   **Information Systems Analyst** at Hubbell Lighting
+
     September 2015 - July 2016, Tijuana Mexico
+
     I was in charge of several projects where I had the opportunity to apply my knowledge in software development and mechanical engineering. Some examples were hybrid iOS and android apps, internal websites and some assembly automation projects, all connected via a node.js server for real time data visualization. Thanks to the hybrid approach we had a single code base developed with Angular and Typescript.
 
--   **Quality Project Coordinator / Intern** at Hubbell Lighting  
+-   **Quality Project Coordinator / Intern** at Hubbell Lighting
+
     April 2015 - September 2015, Tijuana Mexico
+
     I coordinated the development of a custom tracking software for our lighting products. This included server side setup, REST api creation and a desktop client developed with modern web technologies such as Electron and Angular, with capabilities of controlling I/O components, gathering information from sensors, scanners and electrical testers.
 
--   **Drafter / Intern** at Hubbell Lighting  
+-   **Drafter / Intern** at Hubbell Lighting
+
     February 2014 - March 2015, Tijuana Mexico
+
     I developed and provided support by creating and updating 2D & 3D technical CAD drawings using Solid Edge, SolidWorks and AutoCad.
 
 ## Personal Achievements
@@ -66,5 +80,7 @@ Full Scholarship
 
 ## Portfolio
 
--   [Peer Chat](https://github.com/AlbertSanIza/peer-chat)
--   [Minesweeper](https://github.com/AlbertSanIza/minesweeper)
+| Project Name                                               | Image                                                                                           | Links |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----- |
+| [Peer Chat](https://github.com/AlbertSanIza/peer-chat)     | ![Peer Chat](https://github.com/user-attachments/assets/f3a7b344-2399-4a67-a950-59a1cc29e3e7)   |       |
+| [Minesweeper](https://github.com/AlbertSanIza/minesweeper) | ![Minesweeper](https://github.com/user-attachments/assets/f3a7b344-2399-4a67-a950-59a1cc29e3e7) |       |
