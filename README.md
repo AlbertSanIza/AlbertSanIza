@@ -66,7 +66,7 @@ Full Scholarship
 
 ## Portfolio
 
-| Project Name                                               | Image                                                                                           | Links |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----- |
-| [Peer Chat](https://github.com/AlbertSanIza/peer-chat)     | ![Peer Chat](https://github.com/user-attachments/assets/12f37da1-0ee4-439e-bf36-f63a0c64a70b)   |       |
-| [Minesweeper](https://github.com/AlbertSanIza/minesweeper) | ![Minesweeper](https://github.com/user-attachments/assets/f3a7b344-2399-4a67-a950-59a1cc29e3e7) |       |
+| Project Name                                               | Image                                                                                           | Links                                             |
+| ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Peer Chat](https://github.com/AlbertSanIza/peer-chat)     | ![Peer Chat](https://github.com/user-attachments/assets/12f37da1-0ee4-439e-bf36-f63a0c64a70b)   | [Try](https://albertsaniza.github.io/peer-chat)   |
+| [Minesweeper](https://github.com/AlbertSanIza/minesweeper) | ![Minesweeper](https://github.com/user-attachments/assets/f3a7b344-2399-4a67-a950-59a1cc29e3e7) | [Try](https://albertsaniza.github.io/minesweeper) |
