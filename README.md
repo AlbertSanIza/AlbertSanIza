@@ -48,15 +48,15 @@ Full Scholarship
 
 ## Personal Achievements
 
--   Winner - WWDC18 Scholarship (April 2018, Apple Inc.)
--   Winner - WWDC17 Scholarship (April 2017, Apple Inc.)
--   Winner - Autodesk App Store Forge Hackathon 2016 (November 2016, Autodesk)
--   Judges Favourite - Proximity Hackathon (August 2016, Proximi.io & Ionic)
+-   🏅 Winner - WWDC18 Scholarship (April 2018, Apple Inc.)
+-   🏅 Winner - WWDC17 Scholarship (April 2017, Apple Inc.)
+-   🏅 Winner - Autodesk App Store Forge Hackathon 2016 (November 2016, Autodesk)
+-   🏅 Judges Favourite - Proximity Hackathon (August 2016, Proximi.io & Ionic)
 -   6th Place - Angular Attack (May 2016, Angular Attack)
--   3rd Place - Drone Challenge (April 2016, Torneo Nacional de Robótica UTT 2016)
--   1st Place - Angular Cardboard Hackathon (February 2016, Google, Ionic & Ng-Conf 2016)
--   3rd Place - 1st National Competition of Educational Satellites (October 2015, UABC)
--   Winner - Summer Intern Summit Tijuana (August 2015, Hubbell Lighting)
+-   🥉 3rd Place - Drone Challenge (April 2016, Torneo Nacional de Robótica UTT 2016)
+-   🥇 1st Place - Angular Cardboard Hackathon (February 2016, Google, Ionic & Ng-Conf 2016)
+-   🥉 3rd Place - 1st National Competition of Educational Satellites (October 2015, UABC)
+-   🏅 Winner - Summer Intern Summit Tijuana (August 2015, Hubbell Lighting)
 
 ## Language Skills
 
