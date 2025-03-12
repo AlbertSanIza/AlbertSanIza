@@ -18,9 +18,7 @@ Full Scholarship
 
 ## Relevant Work Experience
 
--   **Full Stack Developer** at Treeline Interactive
-
-    July 2021 - May 2023, San Diego CA
+-   **Full Stack Developer** at Treeline Interactive (July 2021 - May 2023, San Diego CA)
 
     I worked as a full stack engineer giving support in multiple areas of a big and fun project related to public health, very relevant to the COVID days. Part of my responsibilities were to develop new features and fix bugs, all in sync with the design, mobile and management team. I also had the opportunity to mentor new devs and introduce them into our codebase and best practices. All this work was a 50% frontend and a 50% backend approach, so we were very flexible on what type of activities we did on each sprint.
 
