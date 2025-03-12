@@ -48,7 +48,7 @@ Full Scholarship
 
 ## Personal Achievements
 
--   🏅 2nd Place - BioMedTech Baja Hackathon (October 2022, iTJ & Dexcom)
+-   🥈 2nd Place - BioMedTech Baja Hackathon (October 2022, iTJ & Dexcom)
 -   🏅 Winner - WWDC18 Scholarship (April 2018, Apple Inc.)
 -   🏅 Winner - WWDC17 Scholarship (April 2017, Apple Inc.)
 -   🏅 Winner - Autodesk App Store Forge Hackathon 2016 (November 2016, Autodesk)
