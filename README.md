@@ -4,9 +4,9 @@ I am a self taught software engineer with a robotics background looking for new 
 
 # Education
 
-Bachelor’s of Science, Mechatronics Engineering  
-The Center for Technical and Higher Education (CETYS University) Tijuana Mexico, Summer 2016
-Full Scholarship
+-   **Bachelor’s of Science, Mechatronics Engineering** at The Center for Technical and Higher Education (CETYS University) (Summer 2011 - Summer 2016, Tijuana Mexico)
+
+    Full Scholarship
 
 # Skills
 
