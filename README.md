@@ -89,3 +89,4 @@ Full Scholarship
 | [Minesweeper (2025)](https://github.com/AlbertSanIza/minesweeper)             | ![image](https://github.com/user-attachments/assets/f3a7b344-2399-4a67-a950-59a1cc29e3e7) | [Try](https://albertsaniza.github.io/minesweeper)      |
 | [The Hawking Cosmos (2018)](https://github.com/AlbertSanIza/TheHawkingCosmos) | ![image](https://github.com/user-attachments/assets/0b9c133c-e681-4173-bdce-ba6e7410f449) | [YouTube](https://www.youtube.com/watch?v=7TKopNBXiHk) |
 | [Coded With Love (2017)](https://github.com/AlbertSanIza/CodedWithLove)       | ![image](https://github.com/user-attachments/assets/c97e280b-7d14-40fd-87ed-3481aeab7cf3) | [YouTube](https://www.youtube.com/watch?v=9rQCCm1T1ZM) |
+| [uCanSee: Rally App (2016)](https://github.com/AlbertSanIza/uCanSee)          |                                                                                           | [YouTube](https://www.youtube.com/watch?v=ZWmn-_j0zPs) |
