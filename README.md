@@ -18,6 +18,10 @@ Full Scholarship
 
 # Relevant Work Experience
 
+-   **Full Stack Developer I** to **Full Stack Developer I to** at TCW Global (February 2024 - Present, San Diego CA)
+
+-   **Web Developer** at Affinity Development Group / Costco Auto Program (August 2023 - February 2024, San Diego CA)
+
 -   **Full Stack Developer** at Treeline Interactive (July 2021 - May 2023, San Diego CA)
 
     -   Actively participated in a multidisciplinary team, contributing to both frontend and backend development efforts, demonstrating adaptability and flexibility by engaging in a diverse range of activities during agile sprints.
@@ -52,7 +56,7 @@ Full Scholarship
     -   Developed reports and charts to assist managers in optimizing workforce allocation based on site workload, enhancing operational efficiency.
     -   Wrote many API’s to enhance the main backend using Ruby on Rails to support every new feature or app created.
 
--   **Drafter Intern to Sr. Developer Analyst** at Hubbell Lighting (February 2014 - August 2017, Tijuana Mexico)
+-   **Drafter Intern** to **Sr. Developer Analyst** at Hubbell Lighting (February 2014 - August 2017, Tijuana Mexico)
 
     -   Established a software development department to meet company needs, resulting in successful projects that were implemented across multiple facilities in the US and Mexico.
     -   Led various projects involving internal websites, hybrid iOS and Android apps, and assembly automation projects that involved custom solutions with Python on the backend and I/O interfaces leveraging RaspberryPi and Arduino.
