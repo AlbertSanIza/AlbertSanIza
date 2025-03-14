@@ -20,31 +20,44 @@ Full Scholarship
 
 -   **Full Stack Developer** at Treeline Interactive (July 2021 - May 2023, San Diego CA)
 
-    I worked as a full stack engineer giving support in multiple areas of a big and fun project related to public health, very relevant to the COVID days. Part of my responsibilities were to develop new features and fix bugs, all in sync with the design, mobile and management team. I also had the opportunity to mentor new devs and introduce them into our codebase and best practices. All this work was a 50% frontend and a 50% backend approach, so we were very flexible on what type of activities we did on each sprint.
+    -   Actively participated in a multidisciplinary team, contributing to both frontend and backend development efforts, demonstrating adaptability and flexibility by engaging in a diverse range of activities during agile sprints.
+    -   Collaborated closely with design, mobile, and management teams to ensure alignment and meet project requirements.
+    -   Translated designers wireframes into functional user interfaces, ensuring pixel-perfect implementation and maintaining consistency with the intended design aesthetic.
+    -   Implemented state management in React applications using Redux and React Context API, ensuring efficient and predictable handling of application state, and enabling effective data flow and component interaction.
+    -   Developed and maintained robust APIs written in NodeJs and leveraged NestJS framework to power the backend infrastructure, ensuring efficient data processing and seamless integration with frontend systems.
+    -   Updated CI/CD pipelines to enable smooth deployment and continuous delivery of the new APIs.
+    -   Wrote comprehensive software tests to ensure the quality and functionality of newly developed APIs, covering both unit testing and integration testing.
+    -   Integrated Shopify with the backend system to enable seamless handling of subscriptions, allowing for efficient management of customer subscriptions, billing, and recurring payments.
+    -   Identified and resolved bugs in both frontend and backend code, ensuring smooth functionality and optimal user experience. Utilized debugging tools and performed thorough testing to quickly diagnose and address issues, enhancing overall system stability.
+    -   Assisted clients in establishing seamless connections and synchronizing their systems with our APIs, enabling them to access real-time data and enhance their operational efficiency.
+    -   Mentored and onboarded new developers, facilitating their integration into the codebase and promoting best practices.
+    -   Provided over 600 hours of dedicated on-call support through PagerDuty, promptly responding to customer inquiries, troubleshooting issues, and ensuring timely resolution to critical incidents.
+    -   Collaborated with a team in React Native to develop a hybrid mobile application.
 
 -   **Junior Software Developer** at VersaCall Technologies Inc (July 2018 - July 2021, San Diego CA)
 
-    By creating proof of concept projects I was involved in the R&D process to find and test the newest technologies that could be used in the next generation of the company's product. This may include developing the environment setup, frontend and backend implementations, templates and mobile implementation as well. I also designed our testing and deploying tools. At the end we settled into React for the Front End and .Net Core on the backend, all running as micro services on top of Docker.
+    -   Provided support to clients in updating and modernizing legacy modules written in jQuery and C#, ensuring compatibility with newer technologies and frameworks.
+    -   Played a key role in researching and testing new technologies for the next generation of the company's product. We settled mainly on React for the frontend and .Net Core for the backend, implementing them as microservices running on Docker.
+    -   Designed and implemented testing and deployment pipelines leveraging Jenkins as our CI/CD to improve the development workflow and ensure software quality.
+    -   Established the development patterns for all future frontend tasks.
+    -   Developed over 80 React applications and libraries packaged as microservices, which seamlessly integrated with a .NET Core backend, resulting in a scalable and modular architecture.
+    -   Proposed and successfully implemented an agile methodology, introducing sprints and iterative development processes that improved team collaboration, project visibility, and overall efficiency.
+    -   Effectively communicated and provided leadership to an external team of developers in Mexico, fostering a collaborative and productive work environment while ensuring successful project execution and delivery.
 
 -   **Software Developer** at Southwest Manufacturing Services (August 2017 - July 2018, Tijuana Mexico)
 
-    By proposing, creating and implementing some web and mobile applications we had the opportunity to positively impact day to day processes of our manufacturing plant. I was in charge of all Human Resources needs, for example the personnel managing system where people could access and request sick days and vacations so managers could approve them. I also developed reports and charts that allowed the managers to position their employees in the right working stations depending on the site workload.
+    -   Collaborated with cross-functional teams to gather requirements, design application interfaces, and ensure seamless integration with existing systems.
+    -   Created and implemented multiple web applications written in AngularJs and mobile applications written in Swift that significantly improved day-to-day processes within the manufacturing site, more specifically related to the Human Resources department.
+    -   Developed a personnel management system, enabling employees to access and request sick days and vacations while providing managers with the ability to review and approve requests. This was implemented using AngularJs as frontend for a suite of Google App Scripts.
+    -   Developed reports and charts to assist managers in optimizing workforce allocation based on site workload, enhancing operational efficiency.
+    -   Wrote many API’s to enhance the main backend using Ruby on Rails to support every new feature or app created.
 
--   **Sr. Developer Analyst** at Hubbell Lighting (July 2016 - August 2017, Tijuana Mexico)
+-   **Drafter Intern to Sr. Developer Analyst** at Hubbell Lighting (February 2014 - August 2017, Tijuana Mexico)
 
-    After a few months of good results a software development department was created to meet the needs of the company. More projects arrived and our most successful ones were exported to all our Mexico and United States facilities. For example I created a second request software where the managers could track how fast were employees responding their emails and scaling them up to their supervisors if certain time passed. Another project was an app that managers could use to take pictures of problems in the facility then send a fix request to that area's supervisors and also expect a proof of fix response from the person responsible.
-
--   **Information Systems Analyst** at Hubbell Lighting (September 2015 - July 2016, Tijuana Mexico)
-
-    I was in charge of several projects where I had the opportunity to apply my knowledge in software development and mechanical engineering. Some examples were hybrid iOS and android apps, internal websites and some assembly automation projects, all connected via a node.js server for real time data visualization. Thanks to the hybrid approach we had a single code base developed with Angular and Typescript.
-
--   **Quality Project Coordinator / Intern** at Hubbell Lighting (April 2015 - September 2015, Tijuana Mexico)
-
-    I coordinated the development of a custom tracking software for our lighting products. This included server side setup, REST api creation and a desktop client developed with modern web technologies such as Electron and Angular, with capabilities of controlling I/O components, gathering information from sensors, scanners and electrical testers.
-
--   **Drafter / Intern** at Hubbell Lighting (February 2014 - March 2015, Tijuana Mexico)
-
-    I developed and provided support by creating and updating 2D & 3D technical CAD drawings using Solid Edge, SolidWorks and AutoCad.
+    -   Established a software development department to meet company needs, resulting in successful projects that were implemented across multiple facilities in the US and Mexico.
+    -   Led various projects involving internal websites, hybrid iOS and Android apps, and assembly automation projects that involved custom solutions with Python on the backend and I/O interfaces leveraging RaspberryPi and Arduino.
+    -   Coordinated and developed a custom tracking software for lighting products, including the backend infrastructure, PHP API’s and a hybrid desktop client built with AngularJS and Electron, with capabilities for controlling I/O components and gathering information from sensors and testers.
+    -   Provided support by generating and maintaining technical drawings using Solid Edge, SolidWorks, and AutoCAD.
 
 # Personal Achievements
 
