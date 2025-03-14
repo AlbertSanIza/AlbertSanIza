@@ -22,6 +22,13 @@ Full Scholarship
 
 -   **Web Developer** at Affinity Development Group / Costco Auto Program (August 2023 - February 2024, San Diego CA)
 
+    -   Successfully onboarded and completed a series of small web development tasks that showcased my ability to create responsive and user-friendly websites, earning the trust of the team.
+    -   Took over entire UI web development from the “Promo” department, where all new Costco Auto Program promotions are showcased, translating designers wireframes into functional user interfaces.
+    -   Started implementing best practices such as hot-reload (website and styles), TailwindCSS, code formatting and linter.
+    -   Successfully refactored the next “Promo” launch to use User Controls as reusable components so that we can write once and update in all affected places.
+    -   Refactored large jQuery codebase into smaller and cleaner code.
+    -   Actively collaborated with other team members to generate a React prototype that could eventually replace current web implementation.
+
 -   **Full Stack Developer** at Treeline Interactive (July 2021 - May 2023, San Diego CA)
 
     -   Actively participated in a multidisciplinary team, contributing to both frontend and backend development efforts, demonstrating adaptability and flexibility by engaging in a diverse range of activities during agile sprints.
