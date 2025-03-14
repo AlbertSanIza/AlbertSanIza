@@ -20,6 +20,15 @@ Full Scholarship
 
 -   **Full Stack Developer I** to **Full Stack Developer II to** at TCW Global (February 2024 - Present, San Diego CA)
 
+    -   Led technical solutions for significant epics, including delivering an upgraded password flow to meet critical customer needs, ensuring quality and efficiency.
+    -   Co-led the evaluation and proof of concept for a new technology stack, positioning the team for future platform modernization.
+    -   Spearheaded the initiative to modernize the UI for StaffingNation, leveraging expertise in modern web app development best practices.
+    -   Standardized local development environments by implementing Docker-based frameworks, boosting developer productivity and streamlining 3rd-party integration testing.
+    -   Mentored and coached interns, enabling them to exceed expectations and integrate effectively into the team.
+    -   Unified code repositories across multiple projects under a single organizational structure, facilitating collaboration and enabling AI-driven development with GitHub Copilot.
+    -   Demonstrated technical expertise in React, TypeScript, NestJS, and NextJS, contributing to the migration from legacy PHP to a modern platform.
+    -   Enhanced team collaboration by providing technical guidance, improving devops practices, and sharing development best practices through presentations and mentoring.
+
 -   **Web Developer** at Affinity Development Group / Costco Auto Program (August 2023 - February 2024, San Diego CA)
 
     -   Successfully onboarded and completed a series of small web development tasks that showcased my ability to create responsive and user-friendly websites, earning the trust of the team.
