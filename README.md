@@ -18,7 +18,7 @@ Full Scholarship
 
 # Relevant Work Experience
 
--   **Full Stack Developer I** to **Full Stack Developer I to** at TCW Global (February 2024 - Present, San Diego CA)
+-   **Full Stack Developer I** to **Full Stack Developer II to** at TCW Global (February 2024 - Present, San Diego CA)
 
 -   **Web Developer** at Affinity Development Group / Costco Auto Program (August 2023 - February 2024, San Diego CA)
 
