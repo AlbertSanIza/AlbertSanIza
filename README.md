@@ -2,12 +2,6 @@
 
 I am a self-taught software engineer with a background in robotics, driven by an insatiable curiosity and a passion for continuous learning. I thrive on staying ahead of the curve by exploring emerging technologies, trends, and best practices in software development. My ability to quickly adapt to new tools and frameworks, combined with a strong sense of responsibility and problem-solving mindset, allows me to deliver quick and impactful solutions. I am always seeking for new and exciting opportunities where I can contribute my skills, grow as a developer, and make a meaningful impact as part of a forward-thinking team.
 
-# Education
-
--   **Bachelor’s of Science, Mechatronics Engineering** at The Center for Technical and Higher Education / CETYS University (Summer 2011 - Summer 2016, Tijuana Mexico)
-
-    Full Scholarship
-
 # Skills
 
 <p align="center">
@@ -78,6 +72,12 @@ I am a self-taught software engineer with a background in robotics, driven by an
     -   Led various projects involving internal websites, hybrid iOS and Android apps, and assembly automation projects that involved custom solutions with Python on the backend and I/O interfaces leveraging RaspberryPi and Arduino.
     -   Coordinated and developed a custom tracking software for lighting products, including the backend infrastructure, PHP API’s and a hybrid desktop client built with AngularJS and Electron, with capabilities for controlling I/O components and gathering information from sensors and testers.
     -   Provided support by generating and maintaining technical drawings using Solid Edge, SolidWorks, and AutoCAD.
+
+# Education
+
+-   **Bachelor’s of Science, Mechatronics Engineering** at The Center for Technical and Higher Education / CETYS University (Summer 2011 - Summer 2016, Tijuana Mexico)
+
+    Full Scholarship
 
 # Personal Achievements
 
