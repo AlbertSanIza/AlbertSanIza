@@ -1,6 +1,6 @@
 # About Me
 
-I am a self taught software engineer with a robotics background looking for new and exciting opportunities where my knowledge and experience could be of great value. I am sure that my high sense of responsibility and never ending curiosity will be an excellent addition to your software development team.
+I am a self-taught software engineer with a background in robotics, driven by an insatiable curiosity and a passion for continuous learning. I thrive on staying ahead of the curve by exploring emerging technologies, trends, and best practices in software development. My ability to quickly adapt to new tools and frameworks, combined with a strong sense of responsibility and problem-solving mindset, allows me to deliver quick and impactful solutions. I am always seeking for new and exciting opportunities where I can contribute my skills, grow as a developer, and make a meaningful impact as part of a forward-thinking team.
 
 # Education
 
