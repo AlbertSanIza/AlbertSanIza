@@ -48,7 +48,7 @@ I am a self-taught software engineer with a background in robotics, driven by an
     -   Provided over 600 hours of dedicated on-call support through PagerDuty, promptly responding to customer inquiries, troubleshooting issues, and ensuring timely resolution to critical incidents.
     -   Collaborated with a team in React Native to develop a hybrid mobile application.
 
--   **Junior Software Developer** at VersaCall Technologies Inc (July 2018 - July 2021, San Diego CA)
+-   **Software Engineer** at VersaCall Technologies Inc (July 2018 - July 2021, San Diego CA)
 
     -   Provided support to clients in updating and modernizing legacy modules written in jQuery and C#, ensuring compatibility with newer technologies and frameworks.
     -   Played a key role in researching and testing new technologies for the next generation of the company's product. We settled mainly on React for the frontend and .Net Core for the backend, implementing them as microservices running on Docker.
