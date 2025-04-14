@@ -1,6 +1,6 @@
 # About Me
 
-I am a self-taught software engineer with a school background in robotics, driven by an insatiable curiosity and a passion for continuous learning. I thrive on staying ahead of the curve by exploring emerging technologies, trends, and best practices in software development. My ability to quickly adapt to new tools and frameworks, combined with a strong sense of responsibility and problem-solving mindset, allows me to deliver quick and impactful solutions. I am always seeking for new and exciting opportunities as part of a forward-thinking team, where I can learn, grow, contribute and share my knowledge.
+I am a self-taught software engineer with over 10 years of professional experience, passionate about technology and lifelong learning. I am driven by curiosity and thrive on exploring new tools, frameworks, and emerging trends in software development. My adaptability, strong sense of ownership, and problem-solving mindset allows me to deliver fast and effective solutions. I’m always looking for new and exciting opportunities to work with forward-thinking teams where I can learn, grow, share my knowledge, and contribute to a culture of continuous learning and collaboration.
 
 # Skills
 
