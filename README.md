@@ -1,6 +1,6 @@
 # About Me
 
-I am a self-taught software engineer with a background in robotics, driven by an insatiable curiosity and a passion for continuous learning. I thrive on staying ahead of the curve by exploring emerging technologies, trends, and best practices in software development. My ability to quickly adapt to new tools and frameworks, combined with a strong sense of responsibility and problem-solving mindset, allows me to deliver quick and impactful solutions. I am always seeking for new and exciting opportunities where I can contribute my skills, grow as a developer, and make a meaningful impact as part of a forward-thinking team.
+I am a self-taught software engineer with a school background in robotics, driven by an insatiable curiosity and a passion for continuous learning. I thrive on staying ahead of the curve by exploring emerging technologies, trends, and best practices in software development. My ability to quickly adapt to new tools and frameworks, combined with a strong sense of responsibility and problem-solving mindset, allows me to deliver quick and impactful solutions. I am always seeking for new and exciting opportunities as part of a forward-thinking team, where I can learn, grow, contribute and share my knowledge.
 
 # Skills
 
@@ -10,72 +10,71 @@ I am a self-taught software engineer with a background in robotics, driven by an
   </a>
 </p>
 
-# Relevant Work Experience
+# Work Experience
 
 -   **Full Stack Developer I** to **Full Stack Developer II to** at TCW Global (February 2024 - Present, San Diego CA)
 
-    -   Led technical solutions for significant epics, including delivering an upgraded password flow to meet critical customer needs, ensuring quality and efficiency.
-    -   Co-led the evaluation and proof of concept for a new technology stack, positioning the team for future platform modernization.
-    -   Spearheaded the initiative to modernize the UI for StaffingNation, leveraging expertise in modern web app development best practices.
-    -   Standardized local development environments by implementing Docker-based frameworks, boosting developer productivity and streamlining 3rd-party integration testing.
-    -   Mentored and coached interns, enabling them to exceed expectations and integrate effectively into the team.
-    -   Unified code repositories across multiple projects under a single organizational structure, facilitating collaboration and enabling AI-driven development with GitHub Copilot.
-    -   Demonstrated technical expertise in React, TypeScript, NestJS, and NextJS, contributing to the migration from legacy PHP to a modern platform.
-    -   Enhanced team collaboration by providing technical guidance, improving devops practices, and sharing development best practices through presentations and mentoring.
+    -   Enhanced team collaboration by providing technical guidance, improving devops flows, and sharing development best practices through presentations and mentoring. I specially take pride in how I mentored and coached interns, enabling them to exceed expectations and integrate effectively into the team, with talks to hire them full time in upcoming graduation.
+    -   Unified code repositories across multiple projects and organizations under a single organizational structure, facilitating collaboration, increasing security and enabling AI-assisted development with GitHub Copilot.
+    -   Standardized local development environments by completely refactoring and modernizing the development stack, moving away from Vagrant and into Docker, enabling the company to buy latest M Series apple computers for all developers, improving overall happiness, boosting productivity, and streamlining 3rd-party integration testing.
+    -   Led technical solutions for significant projects, including and not limited to revamping and fixing more than 2000 unit tests using Bun and Jest to increase our trust on each release, delivered an upgraded a password authentication strategy to meet critical B2B customer needs on legacy PHP apps using Yii2 Framework, refactored the build and deploy setups on AWS to reduce around 85% on build, test and deploy times and cost.
+    -   Co-led the architecture and evaluation of the technology stack we plan to use for the next 5 years, positioning the company in a path for immediate modernization while ensuring compatibility with legacy projects and smooth transition.
+    -   Spearheaded the initiative to modernize the UI for StaffingNation by demonstrating my technical expertise in React, Next.js, Nest.js and by setting up the foundation and patterns of all new development, which is allowing a smooth migration from legacy PHP to a modern platform.
+    -   As we build the next generation software from the ground up, some of the technologies being introduced and implement today are: React, Next.js, Nest.js, GraphQL, Auth.js, Zitadel, Tanstack Query, shadcn/ui, TailwindCSS, KendoReact DataGrid, AWS (DynamoDB, RDS, EC2, ECS, S3), Github Actions, Docker, Orbstack, Neon, Supabase, and many more to come.
 
 -   **Web Developer** at Affinity Development Group / Costco Auto Program (August 2023 - February 2024, San Diego CA)
 
     -   Successfully onboarded and completed a series of small web development tasks that showcased my ability to create responsive and user-friendly websites, earning the trust of the team.
-    -   Took over entire UI web development from the “Promo” department, where all new Costco Auto Program promotions are showcased, translating designers wireframes into functional user interfaces.
-    -   Started implementing best practices such as hot-reload (website and styles), TailwindCSS, code formatting and linter.
-    -   Successfully refactored the next “Promo” launch to use User Controls as reusable components so that we can write once and update in all affected places.
-    -   Refactored large jQuery codebase into smaller and cleaner code.
-    -   Actively collaborated with other team members to generate a React prototype that could eventually replace current web implementation.
+    -   Took over entire UI web development from the “Promo” department, where all new Costco Auto Program promotions are showcased, translating designers' wireframes into functional user interfaces by leveraging my late knowledge in jQuery and Vanilla.js.
+    -   Suggested and implemented best practices across the entire development cycle including the modernization of IDE and its setup as code, introduction of git, code formatting, linting and hot reloading, wrote a Visual Code Extension to support outdated language with TailwindCSS, as well as the introduction of automatic ephemeral environments for rapid prototyping and testing.
+    -   Successfully refactored the immediate next “Promo” launch to use .NET User Controls and TailwindCSS as reusable components so that we can write once and update in all affected places. Also refactored the entire promo jQuery codebase into smaller, cleaner and reusable code, reducing average deliverable time from 1 month to 1 week.
+    -   Previous enhancements allowed for a faster and tighter collaboration with the Design and Product team, increasing overall confidence in the Promo team which led to the first UI refresh in 4 years, all accomplished in a 1 month cycle.
+    -   New gained trust opened the doors for new tech stack considerations and started evangelizing the idea of using React as a modern approach for web development which led to the creation and presentation of a working React prototype that could eventually replace current legacy web implementation.
 
 -   **Full Stack Developer** at Treeline Interactive (July 2021 - May 2023, San Diego CA)
 
-    -   Actively participated in a multidisciplinary team, contributing to both frontend and backend development efforts, demonstrating adaptability and flexibility by engaging in a diverse range of activities during agile sprints.
+    -   Actively participated in a multidisciplinary team, contributing to frontend, backend and mobile development efforts, demonstrating adaptability and flexibility by engaging in a diverse range of activities during agile sprints.
     -   Collaborated closely with design, mobile, and management teams to ensure alignment and meet project requirements.
     -   Translated designers wireframes into functional user interfaces, ensuring pixel-perfect implementation and maintaining consistency with the intended design aesthetic.
     -   Implemented state management in React applications using Redux and React Context API, ensuring efficient and predictable handling of application state, and enabling effective data flow and component interaction.
-    -   Developed and maintained robust APIs written in NodeJs and leveraged NestJS framework to power the backend infrastructure, ensuring efficient data processing and seamless integration with frontend systems.
+    -   Developed and maintained robust Nest.js APIs to power the backend infrastructure, ensuring efficient data processing and seamless integration with frontend systems.
+    -   I collaborated with the mobile team to build a react native cross-platform application for next-generation telematics platforms in the transportation and logistics industries, enabling seamless integration with telematics hardware and improving operational efficiency and leveraged Expo for streamlined development, testing, and deployment across iOS and Android.
     -   Updated CI/CD pipelines to enable smooth deployment and continuous delivery of the new APIs.
     -   Wrote comprehensive software tests to ensure the quality and functionality of newly developed APIs, covering both unit testing and integration testing.
-    -   Integrated Shopify with the backend system to enable seamless handling of subscriptions, allowing for efficient management of customer subscriptions, billing, and recurring payments.
-    -   Identified and resolved bugs in both frontend and backend code, ensuring smooth functionality and optimal user experience. Utilized debugging tools and performed thorough testing to quickly diagnose and address issues, enhancing overall system stability.
-    -   Assisted clients in establishing seamless connections and synchronizing their systems with our APIs, enabling them to access real-time data and enhance their operational efficiency.
+    -   Integrated Shopify with backend to enable seamless handling of subscriptions, allowing for efficient management of customer subscriptions, billing, and recurring payments.
+    -   Identified and resolved bugs, ensuring smooth functionality and optimal user experience, by utilizing modern debugging tools and thorough testing to quickly diagnose, address and fix issues, enhancing overall system stability.
+    -   Assisted clients in establishing seamless connections, synchronizing their systems with our APIs, enabling them to access real-time data and enhance their operational efficiency.
     -   Mentored and onboarded new developers, facilitating their integration into the codebase and promoting best practices.
-    -   Provided over 600 hours of dedicated on-call support through PagerDuty, promptly responding to customer inquiries, troubleshooting issues, and ensuring timely resolution to critical incidents.
-    -   Collaborated with a team in React Native to develop a hybrid mobile application.
+    -   Aside from regular work hours, I provided more than 600 hours of dedicated on-call support through PagerDuty, promptly responding to customer inquiries, troubleshooting issues, and ensuring timely resolution to critical incidents.
 
 -   **Software Engineer** at VersaCall Technologies Inc (July 2018 - July 2021, San Diego CA)
 
-    -   Provided support to clients in updating and modernizing legacy modules written in jQuery and C#, ensuring compatibility with newer technologies and frameworks.
-    -   Played a key role in researching and testing new technologies for the next generation of the company's product. We settled mainly on React for the frontend and .Net Core for the backend, implementing them as microservices running on Docker.
+    -   Provided support to clients in updating and modernizing legacy Versacall modules written in jQuery and C#, ensuring compatibility with newer technologies and frameworks.
     -   Designed and implemented testing and deployment pipelines leveraging Jenkins as our CI/CD to improve the development workflow and ensure software quality.
-    -   Established the development patterns for all future frontend tasks.
-    -   Developed over 80 React applications and libraries packaged as microservices, which seamlessly integrated with a .NET Core backend, resulting in a scalable and modular architecture.
+    -   Played a key role in researching and testing new technologies for the next generation of Versacall. We landed mainly on a microservice architecture running on Docker, where we could pick the right tool for each job. As our go to choices we decided React for the frontend, .Net Core for the backend, MongoDB as database and RabbitMQ as our message broker.
+    -   Established the development, build and deploy patterns for all future frontend apps and ended up developing more than 80 React applications and libraries packaged as microservices, which seamlessly integrated with a .NET Core backend, resulting in a scalable and modular architecture.
+    -   Also introduced and implemented GraphQL as a unified API layer across microservices, enabling efficient data fetching, and improving developer productivity.
     -   Proposed and successfully implemented an agile methodology, introducing sprints and iterative development processes that improved team collaboration, project visibility, and overall efficiency.
     -   Effectively communicated and provided leadership to an external team of developers in Mexico, fostering a collaborative and productive work environment while ensuring successful project execution and delivery.
 
 -   **Software Developer** at Southwest Manufacturing Services (August 2017 - July 2018, Tijuana Mexico)
 
-    -   Collaborated with cross-functional teams to gather requirements, design application interfaces, and ensure seamless integration with existing systems.
-    -   Created and implemented multiple web applications written in AngularJs and mobile applications written in Swift that significantly improved day-to-day processes within the manufacturing site, more specifically related to the Human Resources department.
-    -   Developed a personnel management system, enabling employees to access and request sick days and vacations while providing managers with the ability to review and approve requests. This was implemented using AngularJs as frontend for a suite of Google App Scripts.
+    -   Collaborated with cross-functional teams to gather requirements, design application interfaces, and ensure seamless integration with existing Human Resources systems.
+    -   Created and implemented multiple web applications written in Angular.js and mobile applications written in Swift that significantly improved day-to-day processes within the manufacturing site, more specifically related to the Human Resources department.
+    -   Developed a personnel management system, enabling employees to access and request sick days and vacations while providing managers with the ability to review and approve requests. This was implemented using Angular.js as frontend for a suite of Google App Scripts.
     -   Developed reports and charts to assist managers in optimizing workforce allocation based on site workload, enhancing operational efficiency.
-    -   Wrote many API’s to enhance the main backend using Ruby on Rails to support every new feature or app created.
+    -   Wrote many api endpoints to enhance the main backend using Ruby on Rails to support every new feature or app created.
 
 -   **Drafter Intern** to **Sr. Developer Analyst** at Hubbell Lighting (February 2014 - August 2017, Tijuana Mexico)
 
-    -   Established a software development department to meet company needs, resulting in successful projects that were implemented across multiple facilities in the US and Mexico.
-    -   Led various projects involving internal websites, hybrid iOS and Android apps, and assembly automation projects that involved custom solutions with Python on the backend and I/O interfaces leveraging RaspberryPi and Arduino.
-    -   Coordinated and developed a custom tracking software for lighting products, including the backend infrastructure, PHP API’s and a hybrid desktop client built with AngularJS and Electron, with capabilities for controlling I/O components and gathering information from sensors and testers.
+    -   Established a software development department to meet company needs, resulting in successful projects that were implemented across multiple facilities in the US and Mexico.\
+    -   Led various projects involving internal websites, hybrid iOS and Android apps, and assembly automation projects that involved custom solutions with Python and I/O interfaces leveraging RaspberryPi and Arduino platforms.
+    -   Coordinated and developed a custom tracking software for lighting products, including the backend infrastructure, PHP API’s and a hybrid desktop client built with Angular.js and Electron, with capabilities for controlling I/O components and gathering information from sensors and electrical testers.
     -   Provided support by generating and maintaining technical drawings using Solid Edge, SolidWorks, and AutoCAD.
 
 # Education
 
--   **Bachelor’s of Science, Mechatronics Engineering** at The Center for Technical and Higher Education / CETYS University (Summer 2011 - Summer 2016, Tijuana Mexico)
+-   **Bachelor’s of Science, Mechatronics Engineering** at CETYS Universidad (Summer 2011 - Summer 2016, Tijuana Mexico)
 
     Full Scholarship
 
