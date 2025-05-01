@@ -1,6 +1,6 @@
 # About Me
 
-I am a self-taught software engineer with over a decade of professional experience, fueled by a deep passion for technology and a commitment to lifelong learning. Guided by curiosity, I excel at exploring innovative tools, frameworks, and emerging trends in software development. My adaptability, strong sense of ownership, and problem-solving mindset empower me to deliver efficient and impactful solutions. I am eager to collaborate with forward-thinking people, teams, and organizations, where I can contribute my expertise, embrace new challenges, and foster a culture of growth, knowledge-sharing, and continuous improvement.
+I am a self-taught software engineer with over a decade of professional experience, fueled by a deep passion for technology and a commitment to lifelong learning. Guided by curiosity, I excel at exploring innovative tools, frameworks, and emerging trends in software development. I am eager to collaborate with forward-thinking people, teams, and organizations, where I can contribute my expertise, embrace new challenges, and foster a culture of growth, continuous improvement, and knowledge-sharing.
 
 # Skills
 
