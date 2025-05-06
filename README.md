@@ -10,26 +10,6 @@ I am a self-taught software engineer with over a decade of professional experien
   </a>
 </p>
 
-# Work Experience
-
--   **Full Stack Developer I** to **Full Stack Developer II to** at TCW Global (February 2024 - Present, San Diego CA)
-
--   **Web Developer** at Affinity Development Group / Costco Auto Program (August 2023 - February 2024, San Diego CA)
-
--   **Full Stack Developer** at Treeline Interactive (July 2021 - May 2023, San Diego CA)
-
--   **Software Engineer** at VersaCall Technologies Inc (July 2018 - July 2021, San Diego CA)
-
--   **Software Developer** at Southwest Manufacturing Services (August 2017 - July 2018, Tijuana Mexico)
-
--   **Drafter Intern** to **Sr. Developer Analyst** at Hubbell Lighting (February 2014 - August 2017, Tijuana Mexico)
-
-# Education
-
--   **Bachelor’s of Science, Mechatronics Engineering** at CETYS Universidad (Summer 2011 - Summer 2016, Tijuana Mexico)
-
-    Full Scholarship
-
 # Personal Achievements
 
 -   🥈 2nd Place - BioMedTech Baja Hackathon (October 2022, iTJ & Dexcom)
@@ -42,11 +22,6 @@ I am a self-taught software engineer with over a decade of professional experien
 -   🥇 1st Place - Angular Cardboard Hackathon (February 2016, Google, Ionic & Ng-Conf 2016)
 -   🥉 3rd Place - 1st National Competition of Educational Satellites (October 2015, UABC)
 -   🏅 Winner - Summer Intern Summit Tijuana (August 2015, Hubbell Lighting)
-
-# Language Skills
-
--   English: Professional
--   Spanish: Fluent
 
 # Portfolio
 
