@@ -12,7 +12,7 @@ I am a self-taught software engineer with over a decade of professional experien
 
 # Personal Achievements
 
--   🥈 1st Place - SDx Hack Day - v0 Vercel (June 2025, SDx & Vercel)
+-   🏅 1st Place - SDx Hack Day - v0 Vercel (June 2025, SDx & Vercel)
 -   🥈 2nd Place - BioMedTech Baja Hackathon (October 2022, iTJ & Dexcom)
 -   🏅 Winner - WWDC18 Scholarship (April 2018, Apple Inc.)
 -   🏅 Winner - WWDC17 Scholarship (April 2017, Apple Inc.)
