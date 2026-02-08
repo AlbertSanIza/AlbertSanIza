@@ -12,24 +12,25 @@ I am a self-taught software engineer with over a decade of professional experien
 
 # Personal Achievements
 
--   🏅 1st Place - SDx Hack Day - Cursor (August 2025, SDx & Cursor & OpenAI)
--   🥈 2nd Place - SDx Hack Day - Supabase (July 2025, SDx & Supabase)
--   🏅 1st Place - SDx Hack Day - v0 Vercel (June 2025, SDx & Vercel)
--   🥈 2nd Place - BioMedTech Baja Hackathon (October 2022, iTJ & Dexcom)
--   🏅 Winner - WWDC18 Scholarship (April 2018, Apple Inc.)
--   🏅 Winner - WWDC17 Scholarship (April 2017, Apple Inc.)
--   🏅 Winner - Autodesk App Store Forge Hackathon 2016 (November 2016, Autodesk)
--   🏅 Judges Favourite - Proximity Hackathon (August 2016, Proximi.io & Ionic)
--   6️⃣ 6th Place - Angular Attack (May 2016, Angular Attack)
--   🥉 3rd Place - Drone Challenge (April 2016, Torneo Nacional de Robótica UTT 2016)
--   🥇 1st Place - Angular Cardboard Hackathon (February 2016, Google, Ionic & Ng-Conf 2016)
--   🥉 3rd Place - 1st National Competition of Educational Satellites (October 2015, UABC)
--   🏅 Winner - Summer Intern Summit Tijuana (August 2015, Hubbell Lighting)
+- 🏅 1st Place - SDx Hack Day - Cursor (August 2025, SDx & Cursor & OpenAI)
+- 🥈 2nd Place - SDx Hack Day - Supabase (July 2025, SDx & Supabase)
+- 🏅 1st Place - SDx Hack Day - v0 Vercel (June 2025, SDx & Vercel)
+- 🥈 2nd Place - BioMedTech Baja Hackathon (October 2022, iTJ & Dexcom)
+- 🏅 Winner - WWDC18 Scholarship (April 2018, Apple Inc.)
+- 🏅 Winner - WWDC17 Scholarship (April 2017, Apple Inc.)
+- 🏅 Winner - Autodesk App Store Forge Hackathon 2016 (November 2016, Autodesk)
+- 🏅 Judges Favourite - Proximity Hackathon (August 2016, Proximi.io & Ionic)
+- 6️⃣ 6th Place - Angular Attack (May 2016, Angular Attack)
+- 🥉 3rd Place - Drone Challenge (April 2016, Torneo Nacional de Robótica UTT 2016)
+- 🥇 1st Place - Angular Cardboard Hackathon (February 2016, Google, Ionic & Ng-Conf 2016)
+- 🥉 3rd Place - 1st National Competition of Educational Satellites (October 2015, UABC)
+- 🏅 Winner - Summer Intern Summit Tijuana (August 2015, Hubbell Lighting)
 
 # Portfolio
 
 | Project Name                                                                                                                                                                  | Image                                                                                                   | Links                                                                                                                                                                                                                                                                                                      |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Octo-Spawn (2026)](https://github.com/AlbertSanIza/octo-spawn)                                                                                                               | ![Japanese Characters](https://github.com/user-attachments/assets/0b8bf106-c57a-439e-bd30-57cad9497318) | [Try](https://albertsaniza.github.io/japanese-characters)                                                                                                                                                                                                                                                  |
 | [Japanese Characters (2025)](https://github.com/AlbertSanIza/japanese-characters)                                                                                             | ![Japanese Characters](https://github.com/user-attachments/assets/0b8bf106-c57a-439e-bd30-57cad9497318) | [Try](https://albertsaniza.github.io/japanese-characters)                                                                                                                                                                                                                                                  |
 | [Text Compare (2025)](https://github.com/AlbertSanIza/text-compare)                                                                                                           | ![Text Compare](https://github.com/user-attachments/assets/2cfc2ce4-b1e7-4407-9e90-6b4372e64454)        | [Try](https://albertsaniza.github.io/text-compare)                                                                                                                                                                                                                                                         |
 | [🥇 Tug of War (2025)](https://github.com/AlbertSanIza/tug-of-war)                                                                                                            | ![Tug of War](https://github.com/user-attachments/assets/254d09bd-902d-402c-81af-525394f51785)          | [Post](https://www.linkedin.com/posts/sdxcommunity_sdx-cursor-openai-hack-day-recap-activity-7365775027402674176-f_Gf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1ymyUBz1NQ6-72Eaek-fwleCF_5eCOPG8), [Try](https://tug-of-war-arena.vercel.app)                                                  |
